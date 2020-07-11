@@ -1,4 +1,4 @@
-id_transacao;id_cliente;data_hora;latitude;longitude;ip;userAgent
+id_acesso;id_cliente;data_hora;latitude;longitude;ip;userAgent
 1;365953751;04/05/2020 19:43;366.755.608;101.535.196;160.201.39.67;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.6 Safari/537.11
 2;879057428;19/04/2019 18:39;76.182.738;1.003.048.897;80.159.165.163;"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
 3;969858430;03/09/2019 20:56;119.104.731;-860.758.979;81.145.127.144;"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-ch) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4"
